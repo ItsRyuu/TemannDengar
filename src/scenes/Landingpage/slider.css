@@ -1,0 +1,14 @@
+.swiper-wrapper {
+  min-height: 400px;
+}
+.swiper-horizontal > .swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal {
+  width: 100%;
+}
+.swiper-pagination-bullet {
+  background-color: #69B7FF;
+  opacity: 1;
+}
+.swiper-pagination-bullet-active {
+  background-color: black !important;
+}
